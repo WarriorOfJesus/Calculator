@@ -1,4 +1,4 @@
-package itacademy.calculator;
+package calculator;
 
 public interface Printable {
     default void printable(String message) {

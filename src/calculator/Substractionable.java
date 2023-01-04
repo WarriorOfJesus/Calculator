@@ -1,4 +1,4 @@
-package itacademy.calculator;
+package calculator;
 
 public interface Substractionable {
     public void subtract();

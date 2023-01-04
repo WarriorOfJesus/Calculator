@@ -1,4 +1,4 @@
-package itacademy.calculator;
+package calculator;
 
 import java.util.ArrayList;
 import java.util.Objects;
