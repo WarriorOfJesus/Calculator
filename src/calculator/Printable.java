@@ -1,7 +1,7 @@
 package calculator;
 
 public interface Printable {
-    default void printable(String message) {
+    default void print(String message) {
         System.out.print(message);
     }
 }
